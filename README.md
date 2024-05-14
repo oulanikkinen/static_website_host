@@ -1,4 +1,4 @@
-#Static Website Hosting
+# Static Website Hosting
 
 > Hosting a static HTTPS website using AWS
 
@@ -10,4 +10,5 @@
 - CloudFront
 
   Please see the complete walkthrough
-  [How to host a static website using AWS]()
+  
+  [How to host a static website using AWS](StaticWebsite.ipynb)
